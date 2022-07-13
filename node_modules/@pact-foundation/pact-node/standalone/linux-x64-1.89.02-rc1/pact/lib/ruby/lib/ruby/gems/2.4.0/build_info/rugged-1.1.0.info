@@ -1,0 +1,1 @@
+--with-ldflags='-L. -L/hbb_shlib/lib -static-libstdc++ -fstack-protector -rdynamic -Wl,-export-dynamic -Wl,--whole-archive -lssl -lcrypto -Wl,--no-whole-archive'

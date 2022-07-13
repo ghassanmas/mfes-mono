@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "__string": "cpp",
+        "atomic": "cpp",
+        "cstring": "cpp",
+        "memory": "cpp",
+        "utility": "cpp"
+    }
+}

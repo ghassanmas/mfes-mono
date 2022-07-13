@@ -1,0 +1,1 @@
+{"version":3,"file":"apolloGraphql.js","sourceRoot":"","sources":["../../../src/dsl/apolloGraphql.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;AAAA,qCAA8C;AAE9C;IAA8C,4CAAkB;IAC9D;QAAA,YACE,iBAAO,SAGR;QAFC,KAAI,CAAC,SAAS,GAAG,KAAI,CAAC,SAAS,IAAI,EAAE,CAAA;QACrC,KAAI,CAAC,SAAS,GAAG,KAAI,CAAC,SAAS,IAAI,IAAI,CAAA;;IACzC,CAAC;IACH,+BAAC;AAAD,CAAC,AAND,CAA8C,4BAAkB,GAM/D;AANY,4DAAwB"}

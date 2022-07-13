@@ -1,0 +1,1 @@
+{"version":3,"file":"publisher.js","sourceRoot":"","sources":["../../../src/dsl/publisher.ts"],"names":[],"mappings":";;;AAAA;;;GAGG;AACH,yCAA4C;AAC5C,wDAAwE;AAExE;IACE,mBAAoB,IAAsB;QAAtB,SAAI,GAAJ,IAAI,CAAkB;IAAG,CAAC;IAEvC,gCAAY,GAAnB;QACE,OAAO,kBAAU,CAAW,mBAAS,CAAC,YAAY,CAAC,IAAI,CAAC,IAAI,CAAC,CAAC,CAAA;IAChE,CAAC;IACH,gBAAC;AAAD,CAAC,AAND,IAMC;AANY,8BAAS"}
