@@ -1,14 +1,17 @@
 {
-  "name": "mfe-mono",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "workspaces": [
-    "apps/*"
-  ],
-  "author": "",
-  "license": "ISC"
+    "name": "mfe-mono",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "workspaces": [
+        "apps/*"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "workspace-tools": "^0.21.0"
+    }
 }
