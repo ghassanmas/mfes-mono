@@ -50,7 +50,7 @@ function updateVersions(pkgs, versions) {
         SHARED_DEV.forEach(dep => {
             packageJson["devDependencies"][dep] = versions[dep]
         })
-        fs.writeFileSync(jsonPath, JSON.stringify(packageJson, null, 2));
+        fs.writeFileSync(jsonPath, JSON.stringify(packageJson, null, 2) + "\n");
     })
 
 }
