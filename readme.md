@@ -25,6 +25,17 @@ MFE don't have a constant dependency of a shared library. To overcome this the `
 
 ## How to use: 
 
-- clone the repo as you usually do `git clone https://github.com/ghassanmas/mfes-mono`
-- Install dependencies  `npm install` // make sure you on node v16 first and also on `npm` `8.5.*`
-- 
+1. clone the repo as you usually do `git clone https://github.com/ghassanmas/mfes-mono`
+2. Install dependencies  `npm install` // make sure you on node v16 first and also on `npm` `8.5.5`
+3. Clone the repo with `node cloneMFEs.js` // This will clone with https, from openedx org, targeting the nutmeg. 
+4. To overcome the challenge above run `node updateToLatestversion.js`
+
+Notes: 
+- The 4 step didn't change front-app-learning, given it was already using the maximum version of all dependencies. Though technically we have rewrote the package.json but **given we used the exact style, indentation, git didn't detect any changes**.
+
+## Next Todo: (Not-exclusive)
+
+- How to clone and link shared dependencies, such that when I change something in common/shared-lib/** I would be able to reflect that on all MFEs. 
+- a script to commit changes of repos. 
+- Decide how to deal with this nested git repos structure. i.e. git submodule or git substree. 
+ 
