@@ -25,6 +25,6 @@ MFE don't have a constant dependency of a shared library. To overcome this the `
 
 ## How to use: 
 
-- clone the repo as you usually do `git clone https://github.com/ghassanmas/mfes-repo`
+- clone the repo as you usually do `git clone https://github.com/ghassanmas/mfes-mono`
 - Install dependencies  `npm install` // make sure you on node v16 first and also on `npm` `8.5.*`
 - 
